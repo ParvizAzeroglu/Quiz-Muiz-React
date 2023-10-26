@@ -1,7 +1,7 @@
 function Header() {
   return (
     <header className="app-header">
-      <h1>The React Quiz</h1>
+      <h1>The Quiz Muiz</h1>
     </header>
   );
 }
