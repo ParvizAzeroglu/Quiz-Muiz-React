@@ -9,4 +9,4 @@ Currently, two official plugins are available:
 
   ## Vercel Website
 
-  - [Quiz Muiz](https://quiz-muiz-react.vercel.app/)
+  - [Quiz Muiz](https://quiz-muiz-react.vercel.app/) <-- Click to see Website
